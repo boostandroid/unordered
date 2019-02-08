@@ -1,0 +1,5 @@
+cc_library_headers {
+    name: "libboost_unordered",
+    export_include_dirs: ["include"],
+    vendor_available: true,
+}	
